@@ -10,6 +10,8 @@
     "files": [
         "./typings/index.d.ts",
         "./src/components/Hello.tsx",
-        "./src/index.tsx"
+        "./src/index.tsx",
+        "./src/components/Neuron.ts",
+        "./src/components/ODESolver.ts"
     ]
 }
